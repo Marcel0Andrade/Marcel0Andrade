@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marcel0Andrade
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me ? Scopolamine#0001
